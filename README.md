@@ -1,1 +1,1 @@
-# kiyoshicoin
+# KiyoshiCoin
